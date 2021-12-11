@@ -8,7 +8,7 @@ import java.util.Random;
 public class Task7 {
 
 	public static void main(String[] args) {
-		int max = Integer.MAX_VALUE;
+		int max = Integer.MIN_VALUE;
 		int sum = 0;
 		int[] array = new int[10];
 
